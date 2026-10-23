@@ -1,0 +1,6 @@
+{
+  "name": "DNYL — Full Laptop Control AI Assistant by Daniyal",
+  "description": "A powerful, full laptop control AI assistant created by Daniyal, capable of automating system tasks, launching applications, managing media, searching the web, and controlling Windows.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
